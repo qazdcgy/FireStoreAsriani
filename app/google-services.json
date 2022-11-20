@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888502885867",
+    "project_id": "firestoreasriani",
+    "storage_bucket": "firestoreasriani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888502885867:android:1b3d68f214ecfa3260cdae",
+        "android_client_info": {
+          "package_name": "com.f55121087.firestoreasriani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888502885867-e8e16dk164ha3qd239gm2oumrnjo1cm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaZxP2_l6gwa_NeXd9YffLkSlVNDHuEC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888502885867-e8e16dk164ha3qd239gm2oumrnjo1cm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
